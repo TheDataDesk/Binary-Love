@@ -57,13 +57,12 @@ Try escaping... (you can't).
 - Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
 - Because Valentine’s Day is the perfect excuse for weird web projects.
 
-Created By
-👩‍💻 Sirisha Padmasekhar aka @TheDataDesk
+  ## Final Thoughts
+If you enjoyed this project, star the repo, share it, or prank your crush with it.
+And remember: In Binary Love, the only options are 1 or 1.
 
-Follow me for more tech, humor, and weird projects!
+Created By Sirisha Padmasekhar |  @TheDataDesk
 
 [GitHub](https://github.com/TheDataDesk) | [Website](https://thedatadesk.github.io/sirishaportfolio/) | [Blog](https://medium.com/@sirishapadmasekhar) | [LinkedIn](https://www.linkedin.com/in/sirishajp/)
 
-## Final Thoughts
-If you enjoyed this project, star the repo, share it, or prank your crush with it.
-And remember: In Binary Love, the only options are 1 or 1.
+Follow me for more tech, humor, and weird projects!
