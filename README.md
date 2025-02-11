@@ -54,9 +54,10 @@ Try escaping... (you can't).
 ## Screenshots  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec0fa91a-fb4a-4ee8-9c3d-9f1fe870e788" alt="Evil Faces Attack" width="400">
-  <img src="https://github.com/user-attachments/assets/92bca089-3642-4d97-baf4-aca815ca3fdf" alt="Confetti Celebration" width="400">
+  <img src="https://github.com/user-attachments/assets/ec0fa91a-fb4a-4ee8-9c3d-9f1fe870e788" alt="Evil Faces Attack" width="450" style="margin-right: 10px; object-fit: cover; height: 300px;">
+  <img src="https://github.com/user-attachments/assets/92bca089-3642-4d97-baf4-aca815ca3fdf" alt="Confetti Celebration" width="450" style="object-fit: cover; height: 300px;">
 </p>
+
 
 
 
