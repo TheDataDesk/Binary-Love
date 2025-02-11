@@ -57,7 +57,8 @@ Try escaping... (you can't).
 - Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
 - Because Valentine’s Day is the perfect excuse for weird web projects.
 
-  ## Final Thoughts
+## Final Thoughts
+
 If you enjoyed this project, star the repo, share it, or prank your crush with it.
 And remember: In Binary Love, the only options are 1 or 1.
 
