@@ -51,17 +51,6 @@ cd Binary-Love
 Open index.html in a browser.
 Try escaping... (you can't).
 
-## Screenshots  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec0fa91a-fb4a-4ee8-9c3d-9f1fe870e788" alt="Evil Faces Attack" width="450" style="margin-right: 10px; object-fit: cover; height: 300px;">
-  <img src="https://github.com/user-attachments/assets/92bca089-3642-4d97-baf4-aca815ca3fdf" alt="Confetti Celebration" width="450" style="object-fit: cover; height: 300px;">
-</p>
-
-
-
-
-
 ## Why This Exists
 - Because a UI that gaslights you into saying "Yes" is peak engineering.
 - Because if buttons can commit to CSS animations, so can you.
