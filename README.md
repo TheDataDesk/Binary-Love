@@ -51,10 +51,12 @@ cd Binary-Love
 Open index.html in a browser.
 Try escaping... (you can't).
 
-## Screenshots 
-<img width="357" alt="Screenshot 2025-02-11 at 22 19 25" src="https://github.com/user-attachments/assets/ec0fa91a-fb4a-4ee8-9c3d-9f1fe870e788" />
-<img width="678" alt="Screenshot 2025-02-11 at 22 19 59" src="https://github.com/user-attachments/assets/92bca089-3642-4d97-baf4-aca815ca3fdf" />
+## Screenshots  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec0fa91a-fb4a-4ee8-9c3d-9f1fe870e788" alt="Evil Faces Attack" width="400">
+  <img src="https://github.com/user-attachments/assets/92bca089-3642-4d97-baf4-aca815ca3fdf" alt="Confetti Celebration" width="400">
+</p>
 
 
 
