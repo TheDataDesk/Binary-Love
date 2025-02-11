@@ -2,13 +2,13 @@
 _A Valentine’s Day Website That Won’t Take "No" for an Answer_
 
 ## About This Project
-This is not your average "Will you be my Valentine?" website. This is **Binary Love**, where your answer is **always YES**... whether you like it or not!  
+Binary Love is an interactive web experience built using HTML, CSS, and JavaScript, designed to make saying “No” impossible.
 
-- **The "No" button?** Oh, it’s there, but good luck clicking it—it shakes violently like it just saw its ex.  
-- **Hover over "No"?** Evil face emojis start flying like a haunted love letter.  
-- **Click "Yes"?** Confetti explodes, music plays, and true love is sealed forever.  
-
-This website is basically **Cupid's cheat code**.
+"No" Button Behavior: Implemented using JavaScript event listeners, the button dynamically shakes and triggers visual elements when hovered.
+Emoji Animations: Hovering over "No" spawns animated evil face emojis using DOM manipulation and CSS keyframe animations.
+Event-Driven Effects: Clicking "Yes" triggers confetti animations and background music using external libraries.
+Frontend-Only Deployment: Fully deployed via GitHub Pages, requiring no backend, making it accessible on any browser.
+This project leverages event-driven programming, DOM manipulation, and CSS animations to create an engaging, gamified user experience.
 
 ---
 
@@ -30,7 +30,6 @@ This website is basically **Cupid's cheat code**.
 - "No" button freaks out when hovered  
 - Spawns evil face emojis when trying to say no  
 - Confetti and background music on "Yes" click  
-- Fully responsive, works on all screens  
 - Deployed on GitHub Pages for easy access  
 
 ---
@@ -52,9 +51,10 @@ Open index.html in a browser.
 Try escaping... (you can't).
 
 ## Why This Exists
-Because saying "No" to love should be hard.
-Because a moving "No" button is better than a ghosted text.
-Because Valentine's Day is just an excuse to build weird websites.
+Because a UI that gaslights you into saying "Yes" is peak engineering.
+Because if buttons can commit to CSS animations, so can you.
+Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
+Because Valentine’s Day is the perfect excuse for weird web projects.
 
 Created By
 👩‍💻 Sirisha Padmasekhar aka @TheDataDesk
