@@ -52,10 +52,10 @@ Open index.html in a browser.
 Try escaping... (you can't).
 
 ## Why This Exists
-Because a UI that gaslights you into saying "Yes" is peak engineering.
-Because if buttons can commit to CSS animations, so can you.
-Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
-Because Valentine’s Day is the perfect excuse for weird web projects.
+- Because a UI that gaslights you into saying "Yes" is peak engineering.
+- Because if buttons can commit to CSS animations, so can you.
+- Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
+- Because Valentine’s Day is the perfect excuse for weird web projects.
 
 Created By
 👩‍💻 Sirisha Padmasekhar aka @TheDataDesk
