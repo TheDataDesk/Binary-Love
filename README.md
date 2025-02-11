@@ -4,7 +4,7 @@ _A Valentine’s Day Website That Won’t Take "No" for an Answer_
 ## About This Project
 Binary Love is an interactive web experience built using HTML, CSS, and JavaScript, designed to make saying “No” impossible.
 
-"No" Button Behavior: Implemented using JavaScript event listeners, the button dynamically shakes and triggers visual elements when hovered.
+Implemented using JavaScript event listeners, the button dynamically shakes and triggers visual elements when hovered.
 Emoji Animations: Hovering over "No" spawns animated evil face emojis using DOM manipulation and CSS keyframe animations.
 Event-Driven Effects: Clicking "Yes" triggers confetti animations and background music using external libraries.
 Frontend-Only Deployment: Fully deployed via GitHub Pages, requiring no backend, making it accessible on any browser.
