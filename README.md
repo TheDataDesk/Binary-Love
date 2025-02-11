@@ -55,9 +55,7 @@ Try escaping... (you can't).
 - Because a UI that gaslights you into saying "Yes" is peak engineering.
 - Because if buttons can commit to CSS animations, so can you.
 - Because Valentine’s Day is basically an A/B test for romance—some get a "Yes," others get sent to the control group
-- Because Valentine’s Day is the perfect excuse for weird web projects.
-
-## Final Thoughts
+- Valentine’s Day is the perfect excuse to build an site that won’t let you stay single
 
 If you enjoyed this project, star the repo, share it, or prank your crush with it.
 And remember: In Binary Love, the only options are 1 or 1.
